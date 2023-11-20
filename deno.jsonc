@@ -1,0 +1,16 @@
+{
+	"lock": false,
+	"tasks": {
+	},
+	"imports": {},
+	"fmt": {
+		"semiColons": false,
+		"useTabs": true,
+		"lineWidth": 120,
+		"indentWidth": 4,
+		"singleQuote": true,
+		"proseWrap": "preserve",
+		"exclude": []
+	},
+	"lint": { "rules": { "tags": ["recommended"] } }
+}
